@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "watermelonmojito.railanarchy.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BlockRailMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
